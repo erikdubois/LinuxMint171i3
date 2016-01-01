@@ -77,6 +77,9 @@ https://github.com/Airblader/i3/tree/gaps-next
 
 Without gaps
 
+![Screenshots](http://i.imgur.com/DZxxFYP.jpg)
+
+
 
 With gaps
 
