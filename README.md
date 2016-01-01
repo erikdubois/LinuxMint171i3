@@ -4,11 +4,8 @@ Installing i3 wm on Linux Mint 17.1 cinnamon
 We start from an up-to-date Linux Mint 17.1 cinnamon as described on 
 http://erikdubois.be/category/linux-mint
 
+![Screenshots](http://i.imgur.com/TzNxQrD.png)
 
-
-<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/final_linuxmint171.png">
-<img style="max-width:100%;" data-canonical-src="http://erikdubois.be/wp-content/uploads/2015/05/final_linuxmint171.png" alt="alt tag" src="http://erikdubois.be/wp-content/uploads/2015/05/final_linuxmint171.png">
-</a>
 
 #Installation procedure
 
